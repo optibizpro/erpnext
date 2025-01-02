@@ -165,13 +165,13 @@ def add_standard_navbar_items():
 		{
 			"item_label": "User Forum",
 			"item_type": "Route",
-			"route": "https://discuss.frappe.io",
+			"route": "https://optibizpro.com/contactus",
 			"is_standard": 1,
 		},
 		{
 			"item_label": "Report an Issue",
 			"item_type": "Route",
-			"route": "https://github.com/frappe/erpnext/issues",
+			"route": "https://github.com/optibizpro/erpnext/issues",
 			"is_standard": 1,
 		},
 	]
