@@ -31101,7 +31101,7 @@ msgstr "Hari Libur"
 #. Name of a Workspace
 #: setup/workspace/home/home.json
 msgid "Home"
-msgstr "Rumah"
+msgstr "Beranda"
 
 #. Name of a DocType
 #: portal/doctype/homepage/homepage.json
